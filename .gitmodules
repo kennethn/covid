@@ -1,0 +1,3 @@
+[submodule "associated-data"]
+	path = associated-data
+	url = https://github.com/COVID19Tracking/associated-data.git
